@@ -1,0 +1,116 @@
+,llena_nececidades,Distancia_recorrida,Transporte_tienda,Genero,Tipo_tienda_concurr
+0,no,0 a 3 cuadras,A pie,Male,Cafeteria
+1,yes,7 a 10 cuadras,A pie,Female,Grocery store (aka. nanostore)
+2,yes,más de 10 cuadras,Automóvil,Female,Micro-restaurant (aka. fondita)
+3,yes,4 a 6 cuadras,Motocicleta,Female,Cafeteria
+4,yes,más de 10 cuadras,Transporte público,Female,Cafeteria
+5,yes,más de 10 cuadras,Transporte público,Female,Grocery store (aka. nanostore)
+6,yes,más de 10 cuadras,Automóvil,Female,Artículos del hogar
+7,yes,más de 10 cuadras,Transporte público,Female,Butcher shop
+8,yes,7 a 10 cuadras,A pie,Male,Grocery store (aka. nanostore)
+9,yes,0 a 3 cuadras,A pie,Female,Grocery store (aka. nanostore)
+10,yes,0 a 3 cuadras,Automóvil,Male,Grocery store (aka. nanostore)
+11,yes,más de 10 cuadras,Transporte público,Female,Grocery store (aka. nanostore)
+12,yes,0 a 3 cuadras,A pie,Male,Butcher shop
+13,yes,4 a 6 cuadras,A pie,Female,Butcher shop
+14,yes,4 a 6 cuadras,A pie,Male,Grocery store (aka. nanostore)
+15,yes,4 a 6 cuadras,A pie,Male,Grocery store (aka. nanostore)
+16,yes,7 a 10 cuadras,A pie,Male,Grocery store (aka. nanostore)
+17,yes,0 a 3 cuadras,A pie,Female,Dairy products
+18,yes,0 a 3 cuadras,A pie,Male,Grocery store (aka. nanostore)
+19,no,4 a 6 cuadras,A pie,Male,Produce (fruits & vegetables)
+20,yes,más de 10 cuadras,Automóvil,Female,Produce (fruits & vegetables)
+21,yes,más de 10 cuadras,Automóvil,Male,Grocery store (aka. nanostore)
+22,yes,4 a 6 cuadras,A pie,Female,Dairy products
+23,yes,más de 10 cuadras,Transporte público,Male,Grocery store (aka. nanostore)
+24,yes,más de 10 cuadras,Transporte público,Male,Grocery store (aka. nanostore)
+25,yes,más de 10 cuadras,Automóvil,Male,Micro-restaurant (aka. fondita)
+26,yes,0 a 3 cuadras,A pie,Male,Grocery store (aka. nanostore)
+27,yes,7 a 10 cuadras,Automóvil,Female,Micro-restaurant (aka. fondita)
+28,yes,más de 10 cuadras,Automóvil,Male,Grocery store (aka. nanostore)
+29,yes,más de 10 cuadras,Transporte público,Male,Cafeteria
+30,yes,7 a 10 cuadras,Automóvil,Male,Cafeteria
+31,yes,0 a 3 cuadras,A pie,Female,Grocery store (aka. nanostore)
+32,yes,7 a 10 cuadras,Automóvil,Female,Produce (fruits & vegetables)
+33,yes,más de 10 cuadras,Automóvil,Male,Grocery store (aka. nanostore)
+34,yes,0 a 3 cuadras,A pie,Male,Grocery store (aka. nanostore)
+35,yes,0 a 3 cuadras,A pie,Female,Grocery store (aka. nanostore)
+36,yes,0 a 3 cuadras,A pie,Female,Micro-restaurant (aka. fondita)
+37,yes,4 a 6 cuadras,A pie,Female,Grocery store (aka. nanostore)
+38,yes,más de 10 cuadras,Transporte público,Female,Micro-restaurant (aka. fondita)
+39,yes,más de 10 cuadras,Transporte público,Male,Micro-restaurant (aka. fondita)
+40,yes,más de 10 cuadras,Automóvil,Male,Grocery store (aka. nanostore)
+41,yes,más de 10 cuadras,Transporte público,Female,Grocery store (aka. nanostore)
+42,yes,más de 10 cuadras,Transporte público,Male,Grocery store (aka. nanostore)
+43,yes,más de 10 cuadras,Transporte público,Male,Grocery store (aka. nanostore)
+44,yes,más de 10 cuadras,Transporte público,Female,Grocery store (aka. nanostore)
+45,yes,0 a 3 cuadras,A pie,Male,Micro-restaurant (aka. fondita)
+46,yes,7 a 10 cuadras,A pie,Male,Micro-restaurant (aka. fondita)
+47,yes,7 a 10 cuadras,Automóvil,Male,Micro-restaurant (aka. fondita)
+48,yes,más de 10 cuadras,Automóvil,Male,Cafeteria
+49,yes,0 a 3 cuadras,Transporte público,Female,Grocery store (aka. nanostore)
+50,yes,más de 10 cuadras,Transporte público,Male,Produce (fruits & vegetables)
+51,yes,más de 10 cuadras,Transporte público,Male,Grocery store (aka. nanostore)
+52,yes,más de 10 cuadras,Transporte público,Male,Grocery store (aka. nanostore)
+53,yes,0 a 3 cuadras,A pie,Male,Grocery store (aka. nanostore)
+54,yes,más de 10 cuadras,Transporte público,Male,Grocery store (aka. nanostore)
+55,yes,0 a 3 cuadras,A pie,Female,Cafeteria
+56,yes,más de 10 cuadras,Transporte público,Female,Micro-restaurant (aka. fondita)
+57,yes,7 a 10 cuadras,Automóvil,Male,Micro-restaurant (aka. fondita)
+58,yes,0 a 3 cuadras,A pie,Female,Butcher shop
+59,yes,0 a 3 cuadras,A pie,Male,Micro-restaurant (aka. fondita)
+60,yes,más de 10 cuadras,Transporte público,Male,Produce (fruits & vegetables)
+61,yes,más de 10 cuadras,Automóvil,Male,Micro-restaurant (aka. fondita)
+62,yes,más de 10 cuadras,Transporte público,Female,Grocery store (aka. nanostore)
+63,yes,más de 10 cuadras,Transporte público,Female,Micro-restaurant (aka. fondita)
+64,yes,más de 10 cuadras,Transporte público,Male,Cafeteria
+65,yes,más de 10 cuadras,Transporte público,Male,Grocery store (aka. nanostore)
+66,yes,más de 10 cuadras,Transporte público,Male,Produce (fruits & vegetables)
+67,yes,más de 10 cuadras,Transporte público,Male,Grocery store (aka. nanostore)
+68,yes,más de 10 cuadras,Automóvil,Female,Grocery store (aka. nanostore)
+69,yes,más de 10 cuadras,Transporte público,Male,Grocery store (aka. nanostore)
+70,yes,más de 10 cuadras,Transporte público,Male,Grocery store (aka. nanostore)
+71,yes,4 a 6 cuadras,A pie,Female,Cafeteria
+72,yes,más de 10 cuadras,Automóvil,Female,Micro-restaurant (aka. fondita)
+73,yes,4 a 6 cuadras,Automóvil,Female,Cafeteria
+74,yes,4 a 6 cuadras,A pie,Male,Grocery store (aka. nanostore)
+75,yes,4 a 6 cuadras,A pie,Male,Micro-restaurant (aka. fondita)
+76,yes,7 a 10 cuadras,Transporte público,Male,Grocery store (aka. nanostore)
+77,yes,más de 10 cuadras,Automóvil,Male,Cafeteria
+78,yes,más de 10 cuadras,Automóvil,Male,Micro-restaurant (aka. fondita)
+79,yes,4 a 6 cuadras,Bicicleta,Male,Micro-restaurant (aka. fondita)
+80,yes,más de 10 cuadras,Automóvil,Female,Micro-restaurant (aka. fondita)
+81,yes,0 a 3 cuadras,A pie,Female,Butcher shop
+82,yes,más de 10 cuadras,Automóvil,Male,Micro-restaurant (aka. fondita)
+83,yes,4 a 6 cuadras,Transporte público,Male,Grocery store (aka. nanostore)
+84,yes,más de 10 cuadras,Motocicleta,Female,Cafeteria
+85,yes,0 a 3 cuadras,A pie,Female,Grocery store (aka. nanostore)
+86,yes,0 a 3 cuadras,A pie,Female,Produce (fruits & vegetables)
+87,yes,0 a 3 cuadras,A pie,Female,Dairy products
+88,yes,4 a 6 cuadras,Automóvil,Female,Butcher shop
+89,no,4 a 6 cuadras,A pie,Female,Grocery store (aka. nanostore)
+90,yes,0 a 3 cuadras,A pie,Female,Grocery store (aka. nanostore)
+91,yes,4 a 6 cuadras,A pie,Female,Produce (fruits & vegetables)
+92,yes,más de 10 cuadras,Automóvil,Male,Cafeteria
+93,yes,4 a 6 cuadras,Bicicleta,Male,Grocery store (aka. nanostore)
+94,no,0 a 3 cuadras,A pie,Male,Grocery store (aka. nanostore)
+95,yes,0 a 3 cuadras,A pie,Female,Grocery store (aka. nanostore)
+96,yes,0 a 3 cuadras,A pie,Female,Cafeteria
+97,yes,0 a 3 cuadras,A pie,Female,Grocery store (aka. nanostore)
+98,no,más de 10 cuadras,Automóvil,Male,Grocery store (aka. nanostore)
+99,yes,más de 10 cuadras,A pie,Male,Dairy products
+100,yes,más de 10 cuadras,A pie,Male,Micro-restaurant (aka. fondita)
+101,yes,0 a 3 cuadras,A pie,Male,Grocery store (aka. nanostore)
+102,yes,más de 10 cuadras,Automóvil,Male,Micro-restaurant (aka. fondita)
+103,yes,más de 10 cuadras,Automóvil,Male,Micro-restaurant (aka. fondita)
+104,yes,más de 10 cuadras,Automóvil,Female,Produce (fruits & vegetables)
+105,yes,0 a 3 cuadras,A pie,Female,Grocery store (aka. nanostore)
+106,yes,7 a 10 cuadras,didi,Female,Micro-restaurant (aka. fondita)
+107,no,más de 10 cuadras,Automóvil,Male,Dairy products
+108,yes,4 km,Automóvil,Male,Grocery store (aka. nanostore)
+109,yes,30 min,Automóvil,Male,Grocery store (aka. nanostore)
+110,yes,20 min,Automóvil,Male,Micro-restaurant (aka. fondita)
+111,yes,30 min,Transporte público,Female,Cafeteria
+112,yes,0 a 3 cuadras,A pie,Male,Cafeteria
+113,yes,más de 10 cuadras,Didi,Male,Cafeteria
+114,yes,4 a 6 cuadras,Transporte público,Male,Cafeteria
